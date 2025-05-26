@@ -1,0 +1,22 @@
+{
+    "name": "XOS Testnet",
+    "website": "https://x.ink/",
+    "description": "Next-gen Ultra-performance chain, Native SPL & Multi-chain Integration.",
+    "explorer": "https://testnet.xoscan.io/",
+    "research": "https://github.com/xos-labs",
+    "symbol": "XOS",
+    "rpc_url": "https://testnet-rpc.x.ink",
+    "type": "coin",
+    "coin_type": 324,
+    "decimals": 18,
+    "status": "active",
+    "tags": [
+        "dapp"
+    ],
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/xos_labs"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "XOS",
+    "type": "XOS",
+    "symbol": "XOS",
+    "decimals": 18,
+    "website": "https://x.ink",
+    "description": "XOS Testnet",
+    "explorer": "https://testnet.xoscan.io/address/0x2CCDB83a043A32898496c1030880Eb2cB977CAbc",
+    "status": "active",
+    "id": "0x2CCDB83a043A32898496c1030880Eb2cB977CAbc",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/xos_labs"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/xos-labs"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/xosnetwork"
+        }
+    ],
+    "tags": [
+        "wrapped"
+    ]
+}

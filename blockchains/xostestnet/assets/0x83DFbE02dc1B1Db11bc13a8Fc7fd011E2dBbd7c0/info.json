@@ -1,0 +1,28 @@
+{
+    "name": "BNB",
+    "type": "XOS",
+    "symbol": "BNB",
+    "decimals": 18,
+    "website": "https://x.ink",
+    "description": "XOS Testnet",
+    "explorer": "https://testnet.xoscan.io/address/0x83DFbE02dc1B1Db11bc13a8Fc7fd011E2dBbd7c0",
+    "status": "active",
+    "id": "0x83DFbE02dc1B1Db11bc13a8Fc7fd011E2dBbd7c0",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/xos_labs"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/xos-labs"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/xosnetwork"
+        }
+    ],
+    "tags": [
+        "wrapped"
+    ]
+}

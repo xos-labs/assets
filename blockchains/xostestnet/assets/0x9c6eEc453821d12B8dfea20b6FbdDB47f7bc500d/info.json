@@ -1,0 +1,28 @@
+{
+    "name": "WIF",
+    "type": "XOS",
+    "symbol": "WIF",
+    "decimals": 18,
+    "website": "https://x.ink",
+    "description": "XOS Testnet",
+    "explorer": "https://testnet.xoscan.io/address/0x9c6eEc453821d12B8dfea20b6FbdDB47f7bc500d",
+    "status": "active",
+    "id": "0x9c6eEc453821d12B8dfea20b6FbdDB47f7bc500d",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/xos_labs"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/xos-labs"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/xosnetwork"
+        }
+    ],
+    "tags": [
+        "wrapped"
+    ]
+}

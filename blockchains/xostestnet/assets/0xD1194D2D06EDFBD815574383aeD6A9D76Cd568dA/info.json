@@ -1,0 +1,28 @@
+{
+    "name": "TST",
+    "type": "XOS",
+    "symbol": "TST",
+    "decimals": 18,
+    "website": "https://x.ink",
+    "description": "XOS Testnet",
+    "explorer": "https://testnet.xoscan.io/address/0xD1194D2D06EDFBD815574383aeD6A9D76Cd568dA",
+    "status": "active",
+    "id": "0xD1194D2D06EDFBD815574383aeD6A9D76Cd568dA",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/xos_labs"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/xos-labs"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/xosnetwork"
+        }
+    ],
+    "tags": [
+        "wrapped"
+    ]
+}

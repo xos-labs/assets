@@ -1,0 +1,28 @@
+{
+    "name": "USDC",
+    "type": "XOS",
+    "symbol": "USDC",
+    "decimals": 18,
+    "website": "https://x.ink",
+    "description": "XOS Testnet",
+    "explorer": "https://testnet.xoscan.io/address/0xb2C1C007421f0Eb5f4B3b3F38723C309Bb208d7d",
+    "status": "active",
+    "id": "0xb2C1C007421f0Eb5f4B3b3F38723C309Bb208d7d",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/xos_labs"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/xos-labs"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/xosnetwork"
+        }
+    ],
+    "tags": [
+        "wrapped"
+    ]
+}
