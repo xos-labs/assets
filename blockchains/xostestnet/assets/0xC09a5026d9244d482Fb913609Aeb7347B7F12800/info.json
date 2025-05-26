@@ -5,9 +5,9 @@
     "decimals": 18,
     "website": "https://x.ink",
     "description": "XOS Testnet",
-    "explorer": "https://testnet.xoscan.io/address/0x0000000000000000000000000000000000000000",
+    "explorer": "https://testnet.xoscan.io/address/0xC09a5026d9244d482Fb913609Aeb7347B7F12800",
     "status": "active",
-    "id": "0x0000000000000000000000000000000000000000",
+    "id": "0xC09a5026d9244d482Fb913609Aeb7347B7F12800",
     "links": [
         {
             "name": "x",
